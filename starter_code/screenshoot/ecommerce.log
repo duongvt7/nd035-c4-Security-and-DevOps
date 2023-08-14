@@ -1,0 +1,15 @@
+2023-08-15 00:50:42,945 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication on DuongVT-Thinkpad with PID 27216 (started by Thinkpad in D:\01.Work\FLT work\udacity\java web\udacity-java\udacity-java\p4 git\nd035-c4-Security-and-DevOps\starter_code)
+2023-08-15 00:50:42,954 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-08-15 00:50:42,954 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2023-08-15 00:50:46,523 DEBUG c.e.d.s.JWTAuthenticationVerficationFilter [main] Filter 'JWTAuthenticationVerficationFilter' configured for use
+2023-08-15 00:50:47,191 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 4.576 seconds (JVM running for 5.607)
+2023-08-15 00:50:47,239 INFO c.e.d.SareetaApplication [main] ECommerce Application Started
+2023-08-15 00:51:08,362 INFO c.e.d.c.UserController [http-nio-8080-exec-1] Create user request
+2023-08-15 00:51:08,549 INFO c.e.d.c.UserController [http-nio-8080-exec-1] Create user request successes
+2023-08-15 00:51:16,451 DEBUG c.e.d.s.JWTAuthenticationFilter [http-nio-8080-exec-3] Request is to process authentication
+2023-08-15 00:59:53,715 INFO c.e.d.c.UserController [http-nio-8080-exec-8] Create user request
+2023-08-15 00:59:53,718 ERROR c.e.d.c.UserController [http-nio-8080-exec-8] Create user request failures
+2023-08-15 01:02:59,013 INFO c.e.d.c.OrderController [http-nio-8080-exec-9] Get orders by username
+2023-08-15 01:02:59,015 ERROR c.e.d.c.OrderController [http-nio-8080-exec-9] Not found any user has username [guest]
+2023-08-15 01:03:28,938 INFO c.e.d.c.OrderController [http-nio-8080-exec-2] Get orders by username
+2023-08-15 01:03:28,941 INFO c.e.d.c.OrderController [http-nio-8080-exec-2] Get orders successfully
